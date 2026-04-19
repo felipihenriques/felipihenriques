@@ -1,39 +1,71 @@
-## Olá, seja bem-vindo(a)
+# 👨‍💻 Felipi
 
-<!--
+**`Desenvolvedor em Formação | Front-End & Back-End`**
 
-## Sobre Mim
-Sou Felipi Henriques, estudante de Engenharia de Software, em constante desenvolvimento na área de tecnologia. Atualmente direciono meus estudos para JavaScript e desenvolvimento web, com foco em construir uma base sólida, criar projetos relevantes e conquistar minha primeira oportunidade no mercado de TI.
+Me chamo **Felipi**, tenho **20 anos** e sou natural de **Campina Grande, Paraíba**. Atualmente curso **Engenharia de Software na Uninter** e estou em constante evolução na área de tecnologia.
 
-## Objetivo Profissional
-Atuar como desenvolvedor, contribuindo com soluções modernas, eficientes e bem estruturadas, enquanto evoluo continuamente em conhecimento técnico e habilidades profissionais.
+Meu foco atual está no desenvolvimento **Front-End e Back-End**, estudando **JavaScript** e **Python**, com o objetivo de conquistar minha **primeira oportunidade em TI**, seja por meio de estágio ou vaga júnior.
 
-## Foco Atual
+Também estou desenvolvendo meu **inglês**, visando oportunidades internacionais e crescimento profissional no mercado global.
+
+---
+
+### 🎯 Objetivos Atuais
+
+- Conquistar minha primeira oportunidade em tecnologia  
+- Evoluir tecnicamente todos os dias  
+- Construir projetos reais para portfólio  
+- Aprimorar meu inglês  
+- Trabalhar internacionalmente no futuro  
+
+---
+
+### 🚀 Tecnologias em Estudo
+
+<p align="left">
+<img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+
+---
+
+### 📚 Atualmente Estudando
+
 - Lógica de Programação  
-- JavaScript Moderno (ES6+)  
-- HTML5 e CSS3  
+- JavaScript Moderno  
+- Python para desenvolvimento e automação  
 - Git e GitHub  
-- Desenvolvimento Front-End  
-- Boas práticas de código  
-
-## Em Desenvolvimento
-- Construção de projetos práticos  
-- Portfólio profissional  
-- Versionamento de código  
+- Estrutura de Dados  
 - Inglês para tecnologia  
-- Soft skills e disciplina profissional  
 
-## Metas de Curto Prazo
-- Conquistar a primeira oportunidade em tecnologia  
-- Desenvolver projetos consistentes para portfólio  
-- Aprimorar habilidades técnicas diariamente  
-- Crescer profissionalmente de forma contínua  
+---
 
-## Contato
-- LinkedIn: Em construção  
-- E-mail: seuemail@exemplo.com  
+### 📈 Estatísticas
 
-## Mentalidade
-> Disciplina, constância e evolução diária.
+<p>
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
 
--->
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+/>
+</p>
+
+---
+
+### 📫 Contato
+
+- E-mail: seuemail@exemplo.com
+
+---
+
+### 🧠 Mentalidade
+
+> Disciplina diária constrói resultados extraordinários.
