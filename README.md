@@ -17,22 +17,24 @@ Também estou aprimorando meu **inglês**, visando oportunidades internacionais 
 
 <td width="35%" align="center">
 
-<img src="https://media.tenor.com/9f4J0mN9v0EAAAAC/scary-peach-goma.gif" width="260px"/>
+<img src="https://media.tenor.com/9f4J0mN9v0EAAAAC/scary-peach-goma.gif" width="250px"/>
 
 </td>
 </tr>
 </table>
 
 <p align="left">
-    <a href="https://github.com/felipihenriques?tab=followers">
-        <img src="https://custom-icon-badges.demolab.com/github/followers/felipihenriques?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
-    <a href="https://instagram.com/henriques.dev">
-        <img src="https://img.shields.io/badge/Instagram-@henriques.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Discord-Henriques.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
+<a href="https://github.com/felipihenriques?tab=followers">
+<img src="https://custom-icon-badges.demolab.com/github/followers/felipihenriques?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/henriques.dev">
+<img src="https://img.shields.io/badge/Instagram-@henriques.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Discord-Henriques.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 </p>
 
 ---
@@ -64,26 +66,6 @@ Também estou aprimorando meu **inglês**, visando oportunidades internacionais 
 <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</p>
-
----
-
-### 📚 Atualmente Estudando
-
-- JavaScript Moderno  
-- Python  
-- Desenvolvimento Web  
-- Git e GitHub  
-- Lógica de Programação  
-- Inglês para tecnologia  
-
----
-
-### 📊 Estatísticas
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipihenriques&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipihenriques&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
 </p>
 
 ---
